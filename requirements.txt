@@ -1,1 +1,3 @@
-# requirements.txt placeholder
+tensorflow>=2.13
+tensorflow-datasets
+numpy
