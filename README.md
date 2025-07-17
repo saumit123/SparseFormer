@@ -43,4 +43,4 @@ This design reduces the attention complexity from **O(n²)** to **O(n√n)** or 
 - Streamlit app for showcasing text classification and generation
 - Clean, modular code with detailed inline comments
 
-Whether you're a student, researcher, or practitioner, this project gives you a practical foundation to understand and extend sparse attention models. It’s designed not just to **run**, but to **teach**.
+
